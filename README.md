@@ -15,7 +15,7 @@
 # 📊 GitHub Stats:
 ![Nuzhat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nuzhat27&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![Nuzhat's GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Nuzhat27&theme=dark&hide_border=false)<br/>
-![Nuzhat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuzhat27&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Nuzhat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuzhat27&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)s
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
