@@ -13,9 +13,8 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Nuzhat27/Nuzhat27/output/github-snake.svg" />
 </picture>
 # 📊 GitHub Stats:
-![Nuzhat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nuzhat27&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![Nuzhat's GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Nuzhat27&theme=dark&hide_border=false)<br/>
-![Nuzhat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuzhat27&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Nuzhat's GitHub Streak]([https://nirzak-streak-stats.vercel.app/?user=Nuzhat27&theme=dark&hide_border=false](https://nirzak-streak-stats.vercel.app/?user=Nuzhat27&theme=dark&hide_border=false))<br/>
+![Nuzhat's Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=Nuzhat27&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuzhat27&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact))
 
 
 ### ✍️ Random Dev Quote
