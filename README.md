@@ -24,7 +24,6 @@ Fun fact: My code runs on caffeine ☕ and a strong desire to create something a
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nuzhat27&locale=en&hide_title=false&card_width=320&theme=dracula&hide_border=false" height="150" alt="github stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nuzhat27&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
   
 </div>
