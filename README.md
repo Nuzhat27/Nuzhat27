@@ -5,6 +5,8 @@ I'm currently learning: The Complete Full-Stack Web Development Bootcamp to mast
 Ask me about: Crafting responsive websites (like my Amazon clone! 🛒), Python 🐍, Java ☕, and database magic. 💾<br>
 Fun fact: My code runs on caffeine ☕ and a strong desire to create something awesome! ✨
 
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@iuznat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nuzhat-firdosh-8894842a8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nuzhatfrd@gmail.com) 
 
@@ -24,7 +26,7 @@ Fun fact: My code runs on caffeine ☕ and a strong desire to create something a
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nuzhat27&locale=en&hide_title=false&card_width=320&theme=dracula&hide_border=false" height="150" alt="github stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nuzhat27&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=Nuzhat27&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  
 </div>
 
 ---
