@@ -3,7 +3,6 @@
 <h1>Nuzhat Firdosh</h1>
 <h3>Full-Stack Developer · CS Undergraduate · MERN Stack · 9.38 CGPA</h3>
 
-<p><em>Building scalable software — from Railway internals to SaaS platforms.</em></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nuzhat-firdosh)
 [![Email](https://img.shields.io/badge/Gmail-nuzhatfrd@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nuzhatfrd@gmail.com)
